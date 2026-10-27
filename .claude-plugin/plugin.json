@@ -1,0 +1,11 @@
+{
+  "name": "couteau-suisse",
+  "description": "14 commandes pour tout faire mieux avec Claude, dans tous les domaines : brief, vérification, résumé, décision, plan, apprentissage, rédaction, critique, explication, brainstorm, négociation, résolution de problème, comparaison, relecture.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Varhex by Ȥrk Team",
+    "url": "https://varhex.com"
+  },
+  "homepage": "https://github.com/zrk-lol/claude-couteau-suisse",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "varhex",
+  "owner": {
+    "name": "Varhex by Ȥrk Team",
+    "url": "https://varhex.com"
+  },
+  "plugins": [
+    {
+      "name": "couteau-suisse",
+      "source": "./",
+      "description": "14 commandes Claude pour tous les domaines."
+    }
+  ]
+}
